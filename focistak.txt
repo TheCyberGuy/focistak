@@ -1,0 +1,11 @@
+nev;csapat;szuletesi_ev;kereset
+Kylian Mbappé;Paris Saint-Germain;1998;1000000
+Lionel Messi;Paris Saint-Germain;1987;960000
+Neymar;Paris Saint-Germain;1992;606000
+Mohamed Salah;Liverpool;1992;400000
+Cristiano Ronaldo;Manchester United;1985;385000
+Kevin De Bruyne;Manchester City;1991;385000
+Erling Haaland;Manchester City;2000;375000
+David De Gea;Manchester United;1990;375000
+Antoine Griezmann;Atletico Madrid;1991;356000
+Robert Lewandowski;Bayern München;1988;350000
